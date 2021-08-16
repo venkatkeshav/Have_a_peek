@@ -10,7 +10,7 @@ Just to let u know before hand this code here parses and crawls the final links 
   <li>Now move inside test1 directory using "cd test1" command in the command prompt.</li>
   <li>Now enter the following command to parse and retreive all the final links of Learnawesome.org website:</li>
 </ul>
-  Run `scrapy crawl topic` in command prompt
+Run `scrapy crawl topic` in command prompt.
 ### How to save csv file
 <ul>
   <li>Here topic is the name of our spider and worry not this will take some time to retreive all the links.</li>
