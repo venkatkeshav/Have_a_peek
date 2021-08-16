@@ -20,6 +20,6 @@ Run `scrapy crawl topic` in command prompt.
   To retreive all the links and to store in a csv file or other, use the below line
 
   `scrapy crawl topic -o file_name.csv` 
-<ul>
-  <li>This will create a csv file where all the links their names and topics they are related to are present.</li>
-</ul>
+
+  This will create a csv file where all the links their names and topics they are related to are present.
+
