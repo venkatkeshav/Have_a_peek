@@ -4,12 +4,15 @@ Run `pip install scrapy` for installing scrapy module.
 ## Must read:
 Just to let u know before hand this code here parses and crawls the final links of all topics from the website https://learnawesome.org/topics and u can use these kinds of tricks for other websites as well.
 ### How to run code:
-<ul>
-  <li>After downloading the code unzip it to a location u prefer.</li>
-  <li>Open command propmt of that file location</li>
-  <li>Now move inside test1 directory using "cd test1" command in the command prompt.</li>
-  <li>Now enter the following command to parse and retreive all the final links of Learnawesome.org website:</li>
-</ul>
+
+  After downloading the code unzip it to a location u prefer
+  
+  Open command propmt of that file location
+  
+  Now move inside test1 directory using `cd test1` command in the command prompt.
+  
+  Now enter the following command to parse and retreive all the final links of Learnawesome.org website:
+
 Run `scrapy crawl topic` in command prompt.
 
 ### How to save csv file
